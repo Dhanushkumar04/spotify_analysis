@@ -1,3 +1,5 @@
+!(Spotify logo)[https://github.com/Dhanushkumar04/spotify_analysis/blob/main/spotify-logo.png]
+
 # Spotify Data Analysis Using PostgreSQL
 
 ## Project Overview
